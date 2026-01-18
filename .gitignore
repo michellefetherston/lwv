@@ -1,0 +1,7 @@
+#ignore data files
+*.xlsx
+*.prj
+*.shp
+*.shx
+*.cpg
+*.dbf
